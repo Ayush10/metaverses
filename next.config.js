@@ -12,6 +12,8 @@ const nextConfig = {
     loader: "akamai",
     path: "",
   },
+  basePath: "/metaversus",
+  assetPrefix: "/metaversus",
 };
 
 module.exports = nextConfig;
